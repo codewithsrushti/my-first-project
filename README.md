@@ -1,1 +1,1 @@
-# my-first-project
+Day 1 of learning github
