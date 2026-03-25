@@ -2,15 +2,13 @@
 
 # Example 1
 num = 10
-
 if num > 5:
   print("Number is greater than 5")
 else:
   print("Number is less than or equal to 5")
 
-# Exmaple 2
+# Example 2
 num = 7
-
 if num % 2 == 0:
   print("The number is even")
 else:
