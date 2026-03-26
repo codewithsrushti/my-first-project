@@ -1,4 +1,5 @@
 # Day 3 - Functions
+
 # Syntax
 def function_name(parameters):
   # code
