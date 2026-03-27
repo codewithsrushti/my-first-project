@@ -2,6 +2,10 @@
 print("Hello, Github!")
 
 # Variables
+# Variables are the containers to store the value(data) in memory.
+# It acts like a container.
+
+# Example 
 name = "Srushti"  #string
 age = 20  #integer
 
