@@ -1,5 +1,6 @@
 # Day - 4 Lists
 # List is a collection of values/items stored in one variable
+
 # Syntax
 list_name = [item1,item2,item3]
 
@@ -31,10 +32,13 @@ print("Sum=",total)
 # 10
 # 20
 
+# Expected Output
 # [1,2,3,4]
 
+# Expected Output
 # 10
 # 20
 # 30
 
+# Expected Output
 # Sum = 10
