@@ -1,4 +1,6 @@
 # Day 2 - Python If,Else,Elif Statements
+# This Statements are used for decision making.
+# They executes code based on condition.
 
 # Example 1 - Greater than 
 num = 10
