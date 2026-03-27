@@ -1,7 +1,6 @@
 # Day 2 - Python If,Else,Elif Statements
 
 # Example 1 - Greater than 
-
 num = 10
 if num > 5:
   print("Number is greater than 5")
@@ -9,7 +8,6 @@ else:
   print("Number is less than or equal to 5")
 
 # Example 2 - Even or Odd
-
 num = 7
 if num % 2 == 0:
   print("The number is even")
@@ -17,7 +15,6 @@ else:
   print("The number is odd")
   
 # Example 3 - Positive/Neagtive/Zero
-
 num = int(input("Enter a number:"))
 if num > 0:
   print("Number is positive")
@@ -27,7 +24,6 @@ else:
   print("Number is negative")
 
 # Example 4 - Largest of Two Numbers 
-
 a = int(input("Enter First Number:"))
 b = int(input("Enter the Second Number:"))
 
