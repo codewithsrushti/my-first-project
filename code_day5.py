@@ -64,7 +64,6 @@ count = 0
 
 # Loop through each character
 for ch in text:
-  
   # Check if character is a vowel
   if ch in "aeiou":
     count += 1 # Increase count
