@@ -31,11 +31,14 @@ print("Sum = ",total)
 # Excpected Output
 # (10,20,30)
 
+# Expected Output
 # 10
 # 20
 
+# Expected Output
 # 1
 # 2
 # 3
 
+# Expected Output
 # Sum = 10
