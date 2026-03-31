@@ -1,6 +1,6 @@
 # Day - 6 Tuples
 # Tuples are the collection of elements(value)
-# This are immutable
+# This are Immutable
 
 # Syntax
 tuple_name = (item1,item2,item3)
@@ -42,3 +42,9 @@ print("Sum = ",total)
 
 # Expected Output
 # Sum = 10
+
+# Example - Immutable
+numbers = (10,20,30)
+numbers[0] = 15 # not allowed
+
+# Output : TypeError :'tuple' object doesnot support item assignment
