@@ -1,5 +1,6 @@
 # Day -5 Strings
 # A String is a sequence of characters (text) enclosed with single or double quotes.
+# Strings are immutable(cannot change)
 
 # Syntax
 string_name = "Text"
@@ -90,3 +91,9 @@ print("Vowels=",count)
 # i
 
 # Vowels = 2
+
+# Example - Immutable
+text = "hello"
+text[0] = "H" # not allowed
+
+# Output : Error
