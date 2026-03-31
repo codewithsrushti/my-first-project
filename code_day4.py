@@ -43,3 +43,9 @@ print("Sum=",total)
 
 # Expected Output
 # Sum = 10
+
+# Example - mutable
+numbers = [10,20,30]
+numbers[0] = 15 # allowed
+
+# Output : [15,20,30]
