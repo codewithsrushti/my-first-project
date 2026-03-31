@@ -1,6 +1,6 @@
 # Day - 6 Tuples
 # Tuples are the collection of elements(value)
-# This are Immutable
+# Tuples are Immutable
 
 # Syntax
 tuple_name = (item1,item2,item3)
