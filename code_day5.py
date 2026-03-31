@@ -1,6 +1,6 @@
 # Day -5 Strings
 # A String is a sequence of characters (text) enclosed with single or double quotes.
-# Strings are Immutable(cannot change)
+# Strings are Immutable (Their elements cannot be modified after creation)
 
 # Syntax
 string_name = "Text"
