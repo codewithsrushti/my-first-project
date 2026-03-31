@@ -1,5 +1,6 @@
 # Day - 4 Lists
 # List is a collection of values/items stored in one variable
+# Lists are mutable 
 
 # Syntax
 list_name = [item1,item2,item3]
