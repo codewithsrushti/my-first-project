@@ -72,24 +72,29 @@ for ch in text:
 # Print results
 print("Vowels=",count)
 
-# Expected Output:
-
+# Expected Output
 # Srushti
 # Srushti
 
+# Expected Output
 # Python
 
+# Expected Output
 # P
 # h
 
+# Expected Output
 # 6
 
+# Expected Output
 # PYTHON
 # python
 
+# Expected Output
 # H
 # i
 
+# Expected Output
 # Vowels = 2
 
 # Example - Immutable
