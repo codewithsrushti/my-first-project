@@ -1,4 +1,4 @@
-# Day - 8 Sats
+# Day - 8 Sets
 # A set is a collection of unique elements
 # No duplicate valued are allowed
 # Set is Mutable 
@@ -45,5 +45,5 @@ numbers = {1,2,3}
 numbers.update([4,5]) # change element
 print(numbers)
 
-# Expected Output
+# Output
 # {1,2,3,4,5}
