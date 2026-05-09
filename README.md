@@ -1,1 +1,2 @@
-Day 1 of learning github..
+Basics of Python..
+
